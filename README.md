@@ -1,5 +1,7 @@
 # saphire_agenda
-Le programme permet, à partir du document excel accessible en ligne contenant l'emploi du temps des Saphires, de générer un fichier .ics (fichier contenant un calendrier). Un fichier .ics est directement importable sur Google Agenda, Microsoft Outlook ainsi que la plupart des applications de calendrier.
+
+Le programme permet, à partir du document excel accessible en ligne contenant l'emploi du temps des Saphires, de générer un fichier .ics (fichier contenant un calendrier). 
+Les fichiers .ics est directement importable sur Google Agenda, Microsoft Outlook ainsi que la plupart des applications de calendrier.
 
 <img src="images/oldToNewAgenda.png" >
 
