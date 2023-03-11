@@ -16,7 +16,7 @@ L'application est simple d'utilisation. Il suffit d'entrer sa filière, ses grou
 - Prise en compte du lieu des cours
 - Bonne compréhension des créneaux notés "CM" et "TD" à la fois
 - Possibilités d'écrire "23X" pour désigner {"230","231",...}
-- Mémorisation des choix précédents : le programme stocke les groupes/préférences entrées par l'utilisateur dans un fichier ``data.json``
+- Mémorisation des données saisies : le programme stocke les groupes/préférences entrées par l'utilisateur dans un fichier ``data.json``
 - Ajout d'une description pour chaque évènement, contenant toutes les informations lues par le programme ; par exemple le nom de l'intervenant.
 - Possibilité de ne pas ajouter les "évènements particuliers", évènements pour lesquels le programme n'a pas su identifier le cours ("231",...) et le type de cours ("CM",...)
 
