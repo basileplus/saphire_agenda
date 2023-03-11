@@ -23,3 +23,4 @@ L'application est simple d'utilisation. Il suffit d'entrer sa filière, ses grou
 ## Limites
   * Le programme détecte mal les évènements particuliers, comme les "partiels". Un évènement sera tout de même ajouté au calendrier mais avec le titre "Evènement particulier", le détail sera présent dans sa description.
   * Les créneau de moins de deux heures peuvent poser problème
+  * Le programme ne fonctionnera pas si l'emploi du temps change de format, par exemple si une ligne blanche est ajoutée au début de l'excel contenant l'emploi du temps.
