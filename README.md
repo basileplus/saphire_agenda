@@ -1,7 +1,11 @@
 # saphire_agenda
-Permet d'ejouter à son agenda Google l'emploi du temps des SAPHIRES
+Le programme permet, à partir du document excel accessible en ligne contenant l'emploi du temps des Saphires, de générer un fichier .ics (fichier contenant un calendrier). Un fichier .ics est directement importable sur Google Agenda, Microsoft Outlook ainsi que la plupart des applications de calendrier.
 
 <img src="images/oldToNewAgenda.png" >
+
+L'application est simple d'utilisation. Il suffit d'entrer sa filière, ses groupes (envoyés par Pierre Mella par mail) et le nombre de semaines de l'emploi du temps à reporter sur le fichier .ics.
+
+![Utilisation du logiciel](images/animation.gif)
 
 ![img](D:\Users\Basile\Desktop\Enceinte\mdImages\positionDeuxCondo.jpg)
 
