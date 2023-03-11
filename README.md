@@ -1,7 +1,7 @@
 # saphire_agenda
 Permet d'ejouter à son agenda Google l'emploi du temps des SAPHIRES
 
-<img src="images/oldToNewAgenda.png" width="300">
+<img src="images/oldToNewAgenda.png" >
 
 ![img](D:\Users\Basile\Desktop\Enceinte\mdImages\positionDeuxCondo.jpg)
 
